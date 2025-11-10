@@ -1,0 +1,3 @@
+scanme.nmap.org:22 is OPEN                      Port number 22 is open
+scanme.nmap.org:9999 is CLOSED (refused)        Port number 9999 is closed
+Scan complete in 4.74s — 2 open ports found
